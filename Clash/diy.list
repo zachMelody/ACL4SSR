@@ -1,5 +1,6 @@
 # 自定义列表
 
+IP-CIDR,192.168.3.0/24
 DOMAIN-SUFFIX,south-plus.net
 DOMAIN-SUFFIX,anyrouter.top
 DOMAIN-SUFFIX,saber.love
@@ -12,3 +13,6 @@ DOMAIN-SUFFIX,asmrgay.com
 DOMAIN-SUFFIX,postman.com
 DOMAIN-SUFFIX,postman.co
 DOMAIN-SUFFIX,asmr.one
+DOMAIN-SUFFIX,megallm.io
+DOMAIN-KEYWORD,52pokemon
+DOMAIN-KEYWORD,ti.com
